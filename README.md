@@ -8,8 +8,8 @@
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">AI Project #1: </h3>
-  <h3 align="center">Web Scraping and Named Entity Recognition using Python</h3>
+  <h3 align="center">AI Project #2: </h3>
+  <h3 align="center">Convolutional Neural Network for Image Classification with PyTorch</h3>
 
   <p align="center">
     by Illia Nesterenko
@@ -46,15 +46,11 @@ The repository also contains the names of the articles that were used in the pro
 
 
 ### 🧰 Built With  
+[![pytorch]][pytorch-url]  
 [![numpy]][numpy-url]  
-[![pandas]][pandas-url]  
 [![sklearn]][sklearn-url]  
 [![matplotlib]][matplotlib-url]  
-[![networkX]][networkX-url]  
-[![nltk]][nltk-url]  
-[![spacy]][spacy-url]  
-[![requests]][requests-url]  
-[![wikipediaapi]][wikipediaapi-url]  
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,21 +115,11 @@ Project Link: [https://github.com/illia-nest/web-scrapping-and-ner](https://gith
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[requests]: https://img.shields.io/badge/requests-gray?style=for-the-badge
-[requests-url]: https://requests.readthedocs.io
-[wikipediaapi]: https://img.shields.io/badge/wikipedia--api-brown?style=for-the-badge
-[wikipediaapi-url]: https://pypi.org/project/Wikipedia-API/
-[nltk]: https://img.shields.io/badge/nltk-darkgreen?style=for-the-badge
-[nltk-url]: https://nltk.org/
-[spacy]: https://img.shields.io/badge/spacy-blue?style=for-the-badge
-[spacy-url]: https://spacy.io/
-[NetworkX]: https://img.shields.io/badge/networkx-purple?style=for-the-badge
-[NetworkX-url]: https://networkx.org/
 [numpy]: https://img.shields.io/badge/numpy-%23013343?style=for-the-badge&logo=numpy
 [numpy-url]: https://numpy.org/
-[pandas]: https://img.shields.io/badge/pandas-%23130654?style=for-the-badge&logo=pandas
-[pandas-url]: https://pandas.pydata.org/
-[matplotlib]: https://img.shields.io/badge/matplotlib-%230060df?style=for-the-badge&logo=matplotlib
+[matplotlib]: https://img.shields.io/badge/matplotlib-%230C0057?style=for-the-badge&logo=matplotlib
 [matplotlib-url]: https://matplotlib.org/
 [sklearn]: https://img.shields.io/badge/scikit--learn-%23223228?style=for-the-badge&logo=scikitlearn
 [sklearn-url]: https://scikit-learn..org/
+[pytorch]: https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch
+[pytorch-url]: https://pytorch.org/
