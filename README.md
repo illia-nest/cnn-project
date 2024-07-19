@@ -101,6 +101,8 @@ The model consists of 3 blocks of convolution-pooling-batchnorm-activation layer
   <img src="images/model-train.svg" style="height:500px;">
 </div>
 
+We can see that model loss and model error are falling down, which is a good sign. The final error is ... which can be translated into 100 - ... = ...% accuracy. Running the model on a test set gives us ..., which is relatively good result for such architecture.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
