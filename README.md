@@ -45,7 +45,7 @@
 
 This project grew from a task from Mike X Cohen's Deep Learning course on Udemy. The goal is to _**train and evaluate a CNN model for image classification on the Fashoin MNIST dataset**_. In short, I have used PyTorch to download the dataset. Then, I normalized it to a range [0,1], put it in Dataloaders, and experimented with model architecture to achieve 90%+ accuracy. Please, look at _cnn-project.ipynb_ for a walkthrough of each phase. For a summary, check <a href="#-training-and-evaluation">Training and Evaluation</a>.
 
-NB: FMNIST is a well-known dataset among practitioners. Thus, the point of this project was not to compile and preprocess data, but to showcase my PyTorch skills. For a more data-oriented project, check out this <a href="https://github.com/illia-nest/web-scrapping-and-ner">one</a>.
+**NB**: FMNIST is a well-known dataset among practitioners. Thus, the point of this project was not to compile and preprocess data, but to showcase my PyTorch skills. For a more data-oriented project, check out this <a href="https://github.com/illia-nest/web-scrapping-and-ner">one</a>.
 
 Also, when checking Jupiter Notebook for this project, Github may not render the grid with sample images (shown above). This is inconvenient, so I have included the picture here. The rest of the figures look fine. Please, let me know if you have any troubles while checking out the notebook. 
 
