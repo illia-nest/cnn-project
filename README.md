@@ -39,10 +39,9 @@
 <!-- ABOUT THE PROJECT -->
 ## 🔮 About The Project
 
-<div align="center">
-  <img src="images/FMNIST.svg" style="height:500px;">
-  <p><i>A sample from Fashion-MNIST dataset.</i></p>
-</div>
+<img align="center" src="images/FMNIST.svg" style="height:500px;">
+<p align="center"><i>A sample from Fashion-MNIST dataset.</i></p>
+
 
 This project grew from a task from Mike X Cohen's Deep Learning course on Udemy. The goal is to _**train and evaluate a CNN model for image classification on the Fashoin MNIST dataset**_. In short, I have used PyTorch to download the dataset. Then, I normalized it to a range [0,1], put it in Dataloaders, and experimented with model architecture to achieve 90%+ accuracy. Please, look at _cnn-project.ipynb_ for a walkthrough of each phase. For a summary, check <a href="#-training-and-evaluation">Training and Evaluation</a>.
 
