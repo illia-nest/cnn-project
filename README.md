@@ -98,7 +98,7 @@ Estimated Total Size (MB): 5.18
 The model consists of 3 blocks of convolution-pooling-batchnorm-activation layers followed by 3 FC layers and a final layer with 10 units (1 per class in the dataset). I used ReLU as an activation function and a dropout rate of .25 for conolution and .5 for FC layers. In PyTorch, the softmax is applied within the `CrossEntropyLoss` function, so the model can have 10 outputs later converted into probabilities. Below are two figures that show the progress of training after 30 epochs with batch size equal to 32.
 
 <div align="center">
-  <img src="images/model-train.svg" style="height:500px;">
+  <img src="images/model-tradin.svg" style="height:500px;">
 </div>
 
 We can see that model loss and model error are falling down, which is a good sign. The final error is ... which can be translated into 100 - ... = ...% accuracy. Running the model on a test set gives us ..., which is relatively good result for such architecture.
