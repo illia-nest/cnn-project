@@ -123,7 +123,7 @@ When I designed the model above I was learning what is convolution and how it wo
 
 Illia Nesterenko - [Telegram](https://t.me/illia_nest) - [LinkedIn](https://www.linkedin.com/in/illianest/) - illia.nest03@gmail.com
 
-Project Link: [https://github.com/illia-nest/web-scrapping-and-ner](https://github.com/illia-nest/web-scrapping-and-ner)
+Project Link: [https://github.com/illia-nest/cnn-project](https://github.com/illia-nest/cnn-project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
