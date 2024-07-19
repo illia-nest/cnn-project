@@ -47,6 +47,8 @@ This project grew from a task from Mike X Cohen's Deep Learning course on Udemy.
 
 NB: FMNIST is a well-known dataset among practitioners. Thus, the point of this project was not to compile and preprocess data, but to showcase my PyTorch skills. For a more data-oriented project, check out this <a href="https://github.com/illia-nest/web-scrapping-and-ner">one</a>.
 
+Also, when checking Jupiter Notebook for this project, Github may not render the grid with sample images (shown above). This is inconvenient, so I have included the picture here. The rest of the figures look fine. Please, let me know if you have any troubles while checking out the notebook. 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
