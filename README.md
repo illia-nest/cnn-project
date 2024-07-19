@@ -111,7 +111,7 @@ We can see that model loss and model error are falling down, which is a good sig
 
 <!-- RETROSPECTIVE -->
 ## 🌟 Retrospective
-When I designed the model above I was learning what is convolution and how it works. Now that I have a far better understanding of CNN architectures I can see how this model is so much from the late 1990s. It is similar to LeNet-5 (1998). Were I to make this project today, I would probably use global average pooling for flattening the results and only one FC layer in the end. I would also use more convolution layers either depth-wise separable convolutions or EfficientNet-style residual blocks (however, for such datasets this may be overkill). At the very least I would stack the convolution layer and would not apply pooling as aggressively as I did here. Anyway, I leave the architecture as it is as a reminder to myself "how it all started".
+When I designed the model above I was learning what is convolution and how it works. Now that I have a far better understanding of CNN architectures I can see how this model is so much from the late 1990s. It is similar to LeNet-5 (1998). Were I to make this project today, I would probably use global average pooling for flattening and only one FC layer in the end. I would also use more convolution layers, either depth-wise separable convolutions, or EfficientNet-style residual blocks (however, for such datasets this may be overkill). At the very least I would stack the convolution layer and would not apply pooling as aggressively as I did here. Anyway, I leave the architecture as it is as a reminder to myself "how it all started".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
